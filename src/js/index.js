@@ -1,5 +1,8 @@
 import { initializeApp } from "firebase/app"
-import './style.css'
+
+import '../scss/styles.scss'
+
+import * as bootstrap from 'bootstrap'
 
 import {
     getAuth,
