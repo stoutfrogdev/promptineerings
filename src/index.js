@@ -1,4 +1,5 @@
 import { initializeApp } from "firebase/app"
+import './style.css'
 
 import {
     getAuth,
